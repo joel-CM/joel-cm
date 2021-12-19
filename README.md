@@ -1,7 +1,7 @@
 <h1 style="text-align: center; border-bottom: 2px solid #fff;"> Hola, soy Joel Chavez 👋 </h1>
 
 <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 60px;">
-    <img style="width: 50vw; height: 50vh; margin: 20px auto; display: block;" src="https://media0.giphy.com/media/Kg3BstwdvszUHXrLV3/giphy.gif?cid=ecf05e47br4po10414eqajo82aj0pt706henxvyzg3fuhq31&rid=giphy.gif&ct=g" alt="fondo.gif">
+    <img style="width: 200px; margin: 20px auto; display: block;" src="https://media0.giphy.com/media/Kg3BstwdvszUHXrLV3/giphy.gif?cid=ecf05e47br4po10414eqajo82aj0pt706henxvyzg3fuhq31&rid=giphy.gif&ct=g" alt="fondo.gif">
     <div>
         <h4 style="margin: 0 0 50px 10px;">
            <i>
@@ -22,8 +22,8 @@
 <div>
     <h2 id="contacto">Contacto</h2>
     <div>
-        <a href="https://www.linkedin.com/in/joel-c-dev/"><img style="width: 50px;" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin"></a>
-        <a href="mailto:joelchavezm19@gmail.com"><img style="width: 50px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="gmail"></a>
+        <a href="https://www.linkedin.com/in/joel-c-dev/" target=”_blank”><img style="width: 50px;" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin"></a>
+        <a href="mailto:joelchavezm19@gmail.com" target=”_blank”><img style="width: 50px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="gmail"></a>
     </div>
 </div>
 
