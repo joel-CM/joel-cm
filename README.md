@@ -1,7 +1,7 @@
 <h1 style="text-align: center; border-bottom: 2px solid #fff;"> Hola, soy Joel Chavez 👋 </h1>
 
 <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 60px;">
-    <img style="width: 200px; margin: 20px auto; display: block;" src="https://media0.giphy.com/media/Kg3BstwdvszUHXrLV3/giphy.gif?cid=ecf05e47br4po10414eqajo82aj0pt706henxvyzg3fuhq31&rid=giphy.gif&ct=g" alt="fondo.gif">
+    <img style="width: 200px; margin: 20px auto; display: inline;" src="https://media0.giphy.com/media/Kg3BstwdvszUHXrLV3/giphy.gif?cid=ecf05e47br4po10414eqajo82aj0pt706henxvyzg3fuhq31&rid=giphy.gif&ct=g" alt="fondo.gif">
     <div style="display: inline;">
         <h4 style="margin: 0 0 50px 10px;">
            <i>
