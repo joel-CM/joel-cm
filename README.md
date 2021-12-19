@@ -1,5 +1,5 @@
-### Hola, soy Joel Chavez 👋
-<img style="width: 50vw; height: 50vh; margin: 20px;" src="https://media0.giphy.com/media/Kg3BstwdvszUHXrLV3/giphy.gif?cid=ecf05e47br4po10414eqajo82aj0pt706henxvyzg3fuhq31&rid=giphy.gif&ct=g" alt="fondo.gif">
+<h1 style="text-align: center;"> Hola, soy Joel Chavez 👋 </h1>
+<img style="width: 50vw; height: 50vh; margin: 20px auto; display: block;" src="https://media0.giphy.com/media/Kg3BstwdvszUHXrLV3/giphy.gif?cid=ecf05e47br4po10414eqajo82aj0pt706henxvyzg3fuhq31&rid=giphy.gif&ct=g" alt="fondo.gif">
 
 
 
