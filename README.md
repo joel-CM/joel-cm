@@ -2,7 +2,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 60px;">
     <img style="width: 200px; margin: 20px auto; display: block;" src="https://media0.giphy.com/media/Kg3BstwdvszUHXrLV3/giphy.gif?cid=ecf05e47br4po10414eqajo82aj0pt706henxvyzg3fuhq31&rid=giphy.gif&ct=g" alt="fondo.gif">
-    <div>
+    <div style="display: inline;">
         <h4 style="margin: 0 0 50px 10px;">
            <i>
              Las pruebas conducen al <b style="background: #ff0000; color: #000; padding: 0 5px;">fracaso</b> y el fracaso conduce a la <b style="background: #00ff00; color: #000; padding: 0 5px;">comprensión.</b>
