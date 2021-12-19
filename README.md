@@ -1,5 +1,5 @@
 ### Hola, soy Joel Chavez 👋
-<iframe src="https://giphy.com/embed/Kg3BstwdvszUHXrLV3" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/wink-srmunera-neutre-Kg3BstwdvszUHXrLV3">via GIPHY</a></p>
+<img style="width: 50vw; height: 50vh; margin: 20px;" src="https://media0.giphy.com/media/Kg3BstwdvszUHXrLV3/giphy.gif?cid=ecf05e47br4po10414eqajo82aj0pt706henxvyzg3fuhq31&rid=giphy.gif&ct=g" alt="fondo.gif">
 
 
 
