@@ -15,7 +15,7 @@ const aboutMe = {
     programmingLanguages: ["Javascript/Typescript", "PHP"],
     frontEnd: ["ReactJS", "NextJS", "Redux", "Bootstrap", "Chakra-UI"],
     BackEnd: ["NodeJS", "Express", "Sequelize", "Mongoose"],
-    Database: ["MongoDB", "MySQL", "PostgreSQL"],
+    Database: ["MongoDB", "MySQL", "PostgreSQL", "SQL"],
     tools: {
       versionControlSystem: ["GIT"],
       HTTPClient: ["Postman", "Insomnia"],
