@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Joel
 
-Fullstack web developer 💻
+Full-Stack web developer 💻
 
 ```javascript
 {
