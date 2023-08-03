@@ -10,7 +10,7 @@ Full-Stack web developer 💻
         "location": "Argentina",
         "contact": {
             "gmail": "joelchavezm19@gmail.com",
-            "linkedIn": "https://www.linkedin.com/in/joel-cm"
+            "linkedIn": "www.linkedin.com/in/joel-cm"
         },
         "techStack": {
             "programmingLanguages": [
