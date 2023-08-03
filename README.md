@@ -40,16 +40,12 @@ Full-Stack web developer 💻
                 "SQL"
             ],
             "tools": {
-                "versionControlSystem": [
-                    "GIT"
-                ],
-                "HTTPClient": [
-                    "Postman",
-                    "Insomnia"
-                ],
-                "webpack": true,
-                "babel": true,
-                "docker": true
+                "GIT",
+                "Postman",
+                "Insomnia",
+                "webpack",
+                "babel",
+                "docker",
             }
         }
     }
